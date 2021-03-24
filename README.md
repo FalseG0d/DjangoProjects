@@ -1,4 +1,3 @@
-# Unity2D
+# Machine Learning
 
-A collection of useful codes for Unity2D
-(Check the Branches)
+A collection of useful codes and information for Machine Learning
